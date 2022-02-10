@@ -2,7 +2,9 @@
 
 This is my repository for work done at University, both [courses](./courses) and [projects](./projects).
 
-The main page is sorted by semester decreasingly.## First Semester
+The main page is sorted by semester decreasingly.
+
+## First Semester
 
 ### Datalogiens Tekniske Grundlag \[DTG\](https://github.com/j-terp/aau_dtg/)
 
