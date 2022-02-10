@@ -1,9 +1,9 @@
 [submodule "courses/impr"]
 	path = courses/impr
-	url = https://github.com/j-terp/impr
+	url = https://github.com/j-terp/impr.git
 [submodule "courses/dtg"]
 	path = courses/dtg
-	url = https://github.com/j-terp/dtg
+	url = https://github.com/j-terp/dtg.git
 [submodule "projects/p1"]
 	path = projects/p1
-	url = https://github.com/j-terp/p1
+	url = https://github.com/j-terp/p1.git
