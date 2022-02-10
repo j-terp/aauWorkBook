@@ -1,9 +1,18 @@
-[submodule "courses/impr"]
-	path = courses/impr
-	url = https://github.com/j-terp/impr.git
 [submodule "courses/dtg"]
 	path = courses/dtg
 	url = https://github.com/j-terp/dtg.git
+[submodule "courses/impr"]
+	path = courses/impr
+	url = https://github.com/j-terp/impr.git
+[submodule "courses/alg"]
+	path = courses/alg
+	url = https://github.com/j-terp/alg.git
+[submodule "courses/iwp"]
+	path = courses/iwp
+	url = https://github.com/j-terp/iwp.git
+[submodule "courses/slial"]
+	path = courses/slial
+	url = https://github.com/j-terp/slial.git
 [submodule "projects/p1"]
 	path = projects/p1
 	url = https://github.com/j-terp/p1.git
