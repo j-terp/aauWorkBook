@@ -6,7 +6,7 @@ The main page is sorted by semester decreasingly.
 
 ## First Semester
 
-### Datalogiens Tekniske Grundlag \[DTG\](https://github.com/j-terp/aau_dtg/)
+### [Datalogiens Tekniske Grundlag \[DTG\]](https://github.com/j-terp/aau_dtg/)
 
 This course handled discrete mathematics, with programming as a tool to analyse functions and algorithms.
 
