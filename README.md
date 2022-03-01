@@ -8,9 +8,15 @@ The main page is sorted by semester decreasingly.
 
 ### [Algoritmer og datastrukturer (ALG)](https://github.com/j-terp/aau_alg)
 
+This course handled algorithms and data structures.
+
 ### [Internetværk og webprogrammering (IWP)](https://github.com/j-terp/aau_iwp)
 
+This course was about web programming and internetworking, using Javascript and Node to achieve this.
+
 ### [Sandsynlighedsteori og Lineær algebra (SLIAL)](https://github.com/j-terp/aau_slial)
+
+This course handled linear algebra and probability theory.
 
 ## First Semester
 
