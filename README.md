@@ -20,4 +20,4 @@ This course handled discrete mathematics, with programming as a tool to analyse 
 
 ### [Imperativ Programmering (IMPR)](https://github.com/j-terp/aau_impr/)
 
-This course was about programming in C89 and learning the imperative programming paragdim.
+This course was about programming in C89 and learning the imperative programming paradigm.
