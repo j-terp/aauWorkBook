@@ -16,6 +16,6 @@
 [submodule "projects/p1"]
 	path = projects/p1
 	url = https://github.com/j-terp/aau_p1.git
-[submodule "projects/scratchAPI"]
-	path = projects/scratchAPI
-	url = https://github.com/Tosuma/scratchAPI.git
+[submodule "projects/P2-Project"]
+	path = projects/P2-Project
+	url = https://github.com/Tosuma/P2-Project.git
